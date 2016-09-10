@@ -251,6 +251,12 @@ $hardware_info = array(
                      'battery' => '3100 mAh',
                      'display' => '5.5 inch, 1920x1080 pixel(401ppi)',
                      'cpuarch' => 'Arm'),
+    'bullhead'=> array('cpu'=>'Qualcomm® Snapdragon™ 808'，
+                       'ram'=>'2GB of LP-DDR3',
+                       'rom'=>'16GB/32GB',
+                       'battery'='2700 mAh',
+                       'display'=>'5.2 inch,1920x1080 pixel(423ppi)',
+                       'cpuarch' => 'Arm'),
     'cancro' => array('cpu' => 'Qualcomm® Snapdragon™ 801',
                      'ram' => '3GB of LP-DDR3',
                      'rom' => '16GB/64GB',
